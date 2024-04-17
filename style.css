@@ -66,3 +66,48 @@ img:hover{
     border-radius: 1rem;
     box-shadow: 5px 5px 25px rgb(89, 78, 88);
 }
+@media screen and (max-width: 768px) {
+  h1 {
+    font-size: 4vh;
+    line-height: 3rem;
+  }
+
+  .choice {
+    height: 10vh;
+    width: 10vh;
+    margin: 2vh 2.5vh;
+  }
+
+  img {
+    height: 10vh;
+    width: 10vh;
+    border-radius: 10vh;
+  }
+
+  .choices {
+    gap: 1rem;
+    margin-top: 1.5rem;
+  }
+
+  .scoreBoard {
+    font-size: 1.5rem;
+    /* margin-top: rem; */
+    gap: 2rem;
+  }
+
+  #userScore,
+  #computerScore {
+    font-size: 2rem;
+  }
+
+  .mess {
+    /* line-height: vh; */
+    font-size: 1.2rem;
+    padding: 0.3rem 0.7rem;
+  }
+
+  .reset {
+    font-size: 1.2rem;
+    padding: 0.2rem 0.4rem;
+  }
+}
