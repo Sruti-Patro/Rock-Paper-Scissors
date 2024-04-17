@@ -111,3 +111,25 @@ img:hover{
     padding: 0.2rem 0.4rem;
   }
 }
+
+@media screen and (max-width: 320px){
+  h1 {
+    font-size: 2vh;
+    line-height: 1.7rem;
+  }
+  .choices {
+    flex-direction: column;
+    margin-top: 1.5rem;
+    gap: 1rem;
+    align-items: center;
+  }
+  .scoreBoard {
+    font-size: 1.5rem;
+    gap: 2rem;
+  }
+  .mess {
+    line-height: 10vh;
+    font-size: 1.2rem;
+    padding: 0.3rem 0.7rem;
+  }
+}
