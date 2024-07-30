@@ -1,7 +1,5 @@
 # Rock-Paper-Scissors
 
-# Rock-Paper-Scissors Website
-
 Welcome to the **Rock-Paper-Scissors** website! This playful project is a modern twist on the classic hand game that has entertained people for generations. Get ready to test your luck and strategy as you face off against our digital opponent. Whether you're here for fun, to pass time, or to relive childhood memories, we've got you covered!
 
 ## 🌟 Features
