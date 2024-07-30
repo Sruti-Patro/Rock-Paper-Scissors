@@ -47,7 +47,7 @@ Think you can outsmart the computer? Play as many rounds as you like and see how
 
 ## 📬 Feedback & Contact
 
-Have suggestions or found a bug? We'd love to hear from you! Open an issue on our GitHub repository - []( https://github.com/Sruti-Patro/Rock-Paper-Scissors ).
+Have suggestions or found a bug? We'd love to hear from you! Open an issue on our [GitHub repository]( https://github.com/Sruti-Patro/Rock-Paper-Scissors ).
 
 ## 📜 License
 
@@ -55,6 +55,6 @@ This project is licensed under the MIT License.
 
 ---
 
-Thank you for visiting our Rock-Paper-Scissors game! We hope you enjoy playing as much as we enjoyed creating it. Ready to play? [](https://sruti-patro.github.io/Rock-Paper-Scissors/)
+Thank you for visiting our Rock-Paper-Scissors game! We hope you enjoy playing as much as we enjoyed creating it. Ready to play? [Game Link](https://sruti-patro.github.io/Rock-Paper-Scissors/)
 
 **Happy playing! 🎉**
